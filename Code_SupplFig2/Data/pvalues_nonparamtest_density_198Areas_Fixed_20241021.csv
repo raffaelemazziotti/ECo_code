@@ -1,0 +1,199 @@
+,area,pval_noshock_vs_demonstrator,pval_noshock_vs_observer,pval_demonstrator_vs_observer
+0,Frontal pole cerebral cortex,0.261451617,0.449163394,0.350739054
+1,Primary motor area,0.221644261,0.261451617,0.350739054
+2,Secondary motor area,0.079932099,0.048348784,0.449163394
+3,Primary somatosensory area,0.221644261,0.079932099,0.449163394
+4,Supplemental somatosensory area,0.100668243,0.079932099,0.5
+5,Visceral area,0.048348784,0.048348784,0.5
+6,Dorsal auditory area,0.100668243,0.036819135,0.449163394
+7,Primary auditory area,0.125076504,0.062600515,0.449163394
+8,Posterior auditory area,0.036819135,0.010725367,0.449163394
+9,Ventral auditory area,0.020456776,0.014921032,0.399148924
+10,Anterolateral visual area,0.020456776,0.003645179,0.350739054
+11,Anteromedial visual area,0.007596805,0.002468953,0.261451617
+12,Lateral visual area,0.010725367,0.002468953,0.185546685
+13,Primary visual area,0.014921032,0.003645179,0.125076504
+14,Posterolateral visual area,0.003613111,0.001070355,0.221644261
+16,Laterointermediate area,NA,NA,NA
+17,Postrhinal area,NA,NA,NA
+18,Anterior cingulate area,0.048348784,0.014921032,0.261451617
+19,Prelimbic area,0.079932099,0.007596805,0.30464008
+20,Infralimbic area,0.125076504,0.100668243,0.350739054
+21,Orbital area,0.036819135,0.020456776,0.399148924
+22,Agranular insular area,0.027642496,0.014921032,0.350739054
+23,Retrosplenial area,0.014921032,0.001647257,0.125076504
+24,Anterior area,NA,NA,NA
+25,Rostrolateral visual area,0.036819135,0.007596805,0.185546685
+26,Perirhinal area,0.100668243,0.014921032,0.399148924
+27,Ectorhinal area,NA,NA,NA
+28,Main olfactory bulb,0.010725367,0.014921032,0.449163394
+29,Accessory olfactory bulb,0.185546685,0.020456776,0.350739054
+30,Anterior olfactory nucleus,0.003645179,0.001647257,0.449163394
+31,Taenia tecta,0.002468953,0.001647257,0.449163394
+32,Dorsal peduncular area,0.031667852,0.010653855,0.261451617
+33,Piriform area,0.002468953,0.003645179,0.5
+34,Nucleus of the lateral olfactory tract,0.027642496,0.014921032,0.350739054
+35,Cortical amygdalar area,0.002468953,0.002468953,0.449163394
+36,Piriform-amygdalar area,0.005301673,0.003645179,0.449163394
+37,Postpiriform transition area,0.014921032,0.020456776,0.168686272
+38,Ammon's horn,0.153342533,0.062600515,0.399148924
+39,Dentate gyrus,0.153342533,0.048348784,0.449163394
+40,Fasciola cinerea,0.151737559,0.349793276,0.20285868
+41,Induseum griseum,0.152006499,0.32646654,0.348991257
+42,Entorhinal area,0.010725367,0.005301673,0.449163394
+43,Parasubiculum,0.350739054,0.048348784,0.261451617
+44,Postsubiculum,0.079932099,0.014921032,0.185546685
+45,Presubiculum,0.100668243,0.010725367,0.24086034
+46,Subiculum,0.079932099,0.014921032,0.350739054
+47,Prosubiculum,NA,NA,NA
+48,Hippocampo-amygdalar transition area,NA,NA,NA
+49,Area prostriata,NA,NA,NA
+50,Claustrum,0.005301673,0.002468953,0.30464008
+51,Endopiriform nucleus,0.010725367,0.003645179,0.350739054
+52,Lateral amygdalar nucleus,0.014921032,0.036819135,0.449163394
+53,Basolateral amygdalar nucleus,0.027642496,0.020456776,0.449163394
+54,Basomedial amygdalar nucleus,0.007596805,0.002468953,0.5
+55,Posterior amygdalar nucleus,0.221644261,0.062600515,0.399148924
+56,Caudoputamen,0.5,0.350739054,0.5
+57,Nucleus accumbens,0.221644261,0.048348784,0.5
+58,Fundus of striatum,0.350739054,0.079932099,0.327182749
+59,Olfactory tubercle,0.079932099,0.079932099,0.449163394
+60,Lateral strip of striatum,NA,NA,NA
+61,Lateral septal nucleus,0.048348784,0.005301673,0.5
+62,Septofimbrial nucleus,0.185546685,0.125076504,0.350739054
+63,Septohippocampal nucleus,0.08744914,0.199707958,0.240618666
+64,Anterior amygdalar area,0.153342533,0.062600515,0.5
+65,Bed nucleus of the accessory olfactory tract,0.023700624,0.007596805,0.399148924
+66,Central amygdalar nucleus,0.079932099,0.185546685,0.449163394
+67,Intercalated amygdalar nucleus,0.023700624,0.010725367,0.5
+68,Medial amygdalar nucleus,0.036819135,0.010725367,0.399148924
+69,Globus pallidus external segment,0.221644261,0.350739054,0.185546685
+70,Globus pallidus internal segment,0.350739054,0.153342533,0.062600515
+71,Substantia innominata,0.5,0.185546685,0.221644261
+72,Magnocellular nucleus,0.5,0.5,0.399148924
+73,Medial septal complex,0.048348784,0.036819135,0.5
+74,Triangular nucleus of septum,0.449107741,0.124816013,0.449163394
+75,Bed nuclei of the stria terminalis,0.153342533,0.054915916,0.399148924
+76,Bed nucleus of the anterior commissure,0.423249588,0.010511376,0.111377205
+77,Ventral anterior-lateral complex of the thalamus,0.5,0.5,0.5
+78,Ventral medial nucleus of the thalamus,0.399148924,0.100668243,0.350739054
+79,Ventral posterior complex of the thalamus,0.350739054,0.5,0.350739054
+80,Posterior triangular thalamic nucleus,NA,NA,NA
+81,Subparafascicular nucleus,0.153342533,0.048348784,0.221644261
+82,Subparafascicular area,0.036660819,0.014831129,0.5
+83,Peripeduncular nucleus,0.449163394,0.185546685,0.100668243
+84,Medial geniculate complex,0.474501843,0.185546685,0.5
+85,Dorsal part of the lateral geniculate complex,0.221644261,0.261451617,0.261451617
+86,Lateral posterior nucleus of the thalamus,0.350739054,0.221644261,0.30464008
+87,Posterior complex of the thalamus,0.449163394,0.449163394,0.374563805
+88,Posterior limiting nucleus of the thalamus,0.474501843,0.048348784,0.153342533
+89,Suprageniculate nucleus,0.218070604,0.079472636,0.399040315
+90,Ethmoid nucleus of the thalamus,NA,NA,NA
+91,Retroethmoid nucleus,NA,NA,NA
+92,Anteroventral nucleus of thalamus,0.350739054,0.036819135,0.125076504
+93,Anteromedial nucleus,0.350739054,0.020456776,0.30464008
+94,Anterodorsal nucleus,0.449163394,0.048348784,0.153342533
+95,Interanteromedial nucleus of the thalamus,0.027107774,0.006260456,0.449163394
+96,Interanterodorsal nucleus of the thalamus,0.079702497,0.005301673,0.5
+97,Lateral dorsal nucleus of thalamus,0.221644261,0.079932099,0.399148924
+98,Intermediodorsal nucleus of the thalamus,0.020014424,0.023578659,0.100668243
+99,Mediodorsal nucleus of thalamus,0.153342533,0.020456776,0.30464008
+100,Submedial nucleus of the thalamus,0.350739054,0.185546685,0.327182749
+101,Perireunensis nucleus,0.1991733,0.012114779,0.100172254
+102,Paraventricular nucleus of the thalamus,0.079932099,0.036819135,0.30464008
+103,Parataenial nucleus,0.036819135,0.001082515,0.449163394
+104,Nucleus of reuniens,0.048348784,0.007596805,0.449163394
+105,Xiphoid thalamic nucleus,NA,NA,NA
+106,Rhomboid nucleus,0.031230668,0.02034597,0.350739054
+107,Central medial nucleus of the thalamus,0.027642496,0.010725367,0.399148924
+108,Paracentral nucleus,0.125076504,0.079932099,0.399148924
+109,Central lateral nucleus of the thalamus,0.185546685,0.185546685,0.449163394
+110,Parafascicular nucleus,0.449107741,0.08937735,0.374563805
+111,Posterior intralaminar thalamic nucleus,NA,NA,NA
+112,Reticular nucleus of the thalamus,0.5,0.062600515,0.153342533
+113,Intergeniculate leaflet of the lateral geniculate complex,0.125076504,0.100668243,0.30464008
+114,Intermediate geniculate nucleus,NA,NA,NA
+115,Ventral part of the lateral geniculate complex,0.261451617,0.062600515,0.185546685
+116,Subgeniculate nucleus,0.398931354,0.153342533,0.304245631
+117,Medial habenula,0.125076504,0.261451617,0.185546685
+118,Lateral habenula,0.221644261,0.027642496,0.062600515
+119,Pineal body,NA,NA,NA
+120,Supraoptic nucleus,0.153342533,0.185546685,0.449163394
+121,Nucleus circularis,NA,NA,NA
+122,Paraventricular hypothalamic nucleus,0.100668243,0.089616957,0.221644261
+123,Arcuate hypothalamic nucleus,0.100420434,0.089616957,0.449107741
+124,Anterodorsal preoptic nucleus,0.089616957,0.006309204,0.5
+125,Anterior hypothalamic area,NA,NA,NA
+126,Anteroventral preoptic nucleus,0.079702497,0.079932099,0.474473753
+127,Anteroventral periventricular nucleus,0.138455297,0.042095918,0.474501843
+128,Dorsomedial nucleus of the hypothalamus,0.027642496,0.001082515,0.5
+129,Median preoptic nucleus,0.089616957,0.062600515,0.30464008
+130,Medial preoptic area,0.100668243,0.027642496,0.5
+131,Vascular organ of the lamina terminalis,0.215966926,0.37279145,0.30304784
+132,Posterodorsal preoptic nucleus,0.292133088,0.175365112,0.323129933
+133,Parastrial nucleus,0.042095918,0.005301673,0.399148924
+134,Suprachiasmatic preoptic nucleus,NA,NA,NA
+135,Periventricular hypothalamic nucleus posterior part,0.054915916,0.017402782,0.30464008
+136,Periventricular hypothalamic nucleus preoptic part,0.089616957,0.185546685,0.185546685
+137,Subparaventricular zone,0.125076504,0.079932099,0.449163394
+138,Suprachiasmatic nucleus,0.374563805,0.304443153,0.350582664
+139,Subfornical organ,0.347514697,0.246456153,0.175652865
+140,Ventromedial preoptic nucleus,NA,NA,NA
+141,Ventrolateral preoptic nucleus,0.221644261,0.125076504,0.423920477
+142,Anterior hypothalamic nucleus,0.079932099,0.036819135,0.449163394
+143,Lateral mammillary nucleus,0.374430091,0.474501843,0.423587241
+144,Medial mammillary nucleus,0.20285868,0.100668243,0.5
+145,Supramammillary nucleus,0.079932099,0.010725367,0.261451617
+146,Tuberomammillary nucleus,0.079932099,0.023700624,0.399148924
+147,Medial preoptic nucleus,0.153342533,0.070641027,0.5
+148,Dorsal premammillary nucleus,0.100420434,0.003613111,0.449163394
+149,Ventral premammillary nucleus,0.054720213,0.010653855,0.350739054
+150,Paraventricular hypothalamic nucleus descending division,0.079932099,0.020456776,0.399148924
+151,Ventromedial hypothalamic nucleus,0.054915916,0.048348784,0.350739054
+152,Posterior hypothalamic nucleus,0.048348784,0.007596805,0.30464008
+153,Lateral hypothalamic area,0.261451617,0.010725367,0.125076504
+154,Lateral preoptic area,0.185546685,0.036819135,0.221644261
+155,Preparasubthalamic nucleus,0.152006499,0.010582525,0.048348784
+156,Parasubthalamic nucleus,0.30464008,0.027642496,0.399148924
+157,Perifornical nucleus,NA,NA,NA
+158,Retrochiasmatic area,0.185546685,0.153342533,0.327182749
+159,Subthalamic nucleus,0.24086034,0.153342533,0.5
+160,Tuberal nucleus,0.221644261,0.048165482,0.124816013
+161,Zona incerta,0.261451617,0.010725367,0.125076504
+162,Median eminence,NA,NA,NA
+163,Superior colliculus sensory related,0.036819135,0.005301673,0.221644261
+164,Inferior colliculus,0.079932099,0.014921032,0.261451617
+165,Nucleus of the brachium of the inferior colliculus,0.153342533,0.062600515,0.30464008
+166,Nucleus sagulum,0.398931354,0.185283524,0.304443153
+167,Parabigeminal nucleus,0.423920477,0.153342533,0.5
+168,Midbrain trigeminal nucleus,0.30464008,0.100668243,0.327182749
+169,Subcommissural organ,NA,NA,NA
+170,Substantia nigra reticular part,0.449163394,0.185546685,0.221644261
+171,Ventral tegmental area,0.30464008,0.027642496,0.079932099
+172,Paranigral nucleus,NA,NA,NA
+173,Midbrain reticular nucleus retrorubral area,0.399148924,0.153342533,0.079932099
+174,Midbrain reticular nucleus,0.350739054,0.100668243,0.185546685
+175,Superior colliculus motor related,0.125076504,0.014921032,0.221644261
+176,Periaqueductal gray,0.079932099,0.014921032,0.350739054
+177,Pretectal region,0.350739054,0.048348784,0.100668243
+178,Intercollicular nucleus,NA,NA,NA
+179,Cuneiform nucleus,0.062600515,0.048348784,0.449163394
+180,Red nucleus,0.449163394,0.153342533,0.185546685
+181,Oculomotor nucleus,0.047982133,0.089616957,0.350739054
+182,Medial accesory oculomotor nucleus,NA,NA,NA
+183,Edinger-Westphal nucleus,0.106954872,0.053151268,0.32646654
+184,Trochlear nucleus,0.109571507,0.150655961,0.5
+185,Paratrochlear nucleus,NA,NA,NA
+186,Ventral tegmental nucleus,0.474473753,0.070421872,0.111633435
+187,Anterior tegmental nucleus,0.5,0.282435419,0.185019725
+188,Lateral terminal nucleus of the accessory optic tract,0.28070064,0.327004527,0.111120545
+189,Dorsal terminal nucleus of the accessory optic tract,NA,NA,NA
+190,Medial terminal nucleus of the accessory optic tract,NA,NA,NA
+191,Substantia nigra lateral part,NA,NA,NA
+192,Substantia nigra compact part,0.5,0.100668243,0.221644261
+193,Pedunculopontine nucleus,0.449163394,0.153342533,0.062600515
+194,Interfascicular nucleus raphe,0.168686272,0.185546685,0.327182749
+195,Interpeduncular nucleus,0.20285868,0.20285868,0.449163394
+196,Rostral linear nucleus raphe,0.143677465,0.08476487,0.374026371
+197,Central linear nucleus raphe,0.327182749,0.185546685,0.350739054
+198,Dorsal nucleus raphe,0.079012142,0.014831129,0.30464008
